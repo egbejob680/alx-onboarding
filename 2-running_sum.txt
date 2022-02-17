@@ -1,0 +1,6 @@
+sum = 0
+int number
+if number > 0
+  sum+=number
+else
+print(sum)
