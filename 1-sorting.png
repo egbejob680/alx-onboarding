@@ -1,0 +1,12 @@
+start
+accept three numbers from user a , b  ,c
+if a<b then go to step 4 else step 8
+if a<c then go to step 5 else go to step 7
+if b<c then go to step 9 else go to step 6
+interchange b and c and go to step 9
+interchange a and c and go to step 3
+interchange a and b and go to step 3
+display "accending order"
+display a,b,c
+stop
+
