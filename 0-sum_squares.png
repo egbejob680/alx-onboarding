@@ -1,0 +1,6 @@
+start
+int num, num1 , sum
+sum = (num**2)+(num1**2)
+display sum
+stop 
+
