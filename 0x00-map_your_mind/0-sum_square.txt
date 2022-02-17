@@ -1,0 +1,5 @@
+int num, num1, sum
+square1 = num^2
+square2 = num^2
+sum = square1+square2
+print sum
