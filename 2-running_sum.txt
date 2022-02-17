@@ -4,3 +4,4 @@ if number > 0
   sum+=number
 else
 print(sum)
+
