@@ -1,0 +1,7 @@
+start
+initialize sum to 0
+get number from user
+number > 0
+increment sum
+display sum
+stop
